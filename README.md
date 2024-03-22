@@ -18,5 +18,5 @@ Ha! (laugh).
 
 ### Well, there we go.
 
-Check the [Anotations](.wholeproject/anotations/intro.md) to see me getting a little bit crazier every chapter that I go through.
+Check the [Anotations](./wholeproject/anotations/intro.md) to see me getting a little bit crazier every chapter that I go through.
 
